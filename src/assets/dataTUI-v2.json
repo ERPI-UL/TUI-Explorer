@@ -1,0 +1,6098 @@
+[
+    {
+        "ID": "1",
+        "name": "A-Bricks",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2012,
+        "reference": "Algorithmic Bricks: A tangible robot programming tool for elementary school students",
+        "img": "1.jpg",
+        "doi": ""
+    },
+    {
+        "ID": "2",
+        "name": "Actives Cubes",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Display"
+        ],
+        "year": 2008,
+        "reference": "The Soul of ActiveCube: Implementing a Flexible, Multimodal, Three-Dimensional Spatial Tangible Interface",
+        "img": "2.jpg",
+        "doi": ""
+    },
+    {
+        "ID": "3",
+        "name": "Activity Board 1.0",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "RFID"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2017,
+        "reference": "The Activity Board 1.0 RFID-NFC WI-FI Multitags Desktops Reader for Education and Rehbilitation Applications",
+        "img": "3.jpg",
+        "doi": "10.1007/978-3-319-56538-5_69"
+    },
+    {
+        "ID": "4",
+        "name": "ACTO",
+        "input": [
+            "Rotational",
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2014,
+        "reference": "ACTO: A modular tactile device for tangible interaction ",
+        "img": "4.jpg",
+        "doi": ""
+    },
+    {
+        "ID": "5",
+        "name": "Alfred",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Wearables"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2021,
+        "reference": "Alfred: the Haptic Butler On-Demand Tangibles for Object Manipulation in Virtual Reality using an ETHD",
+        "img": "5.jpg",
+        "doi": ""
+    },
+    {
+        "ID": "6",
+        "name": "An Automated Meeting Assistant",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2009,
+        "reference": "An Automated Meeting Assistant: A Tangible Mixed Reality Interface for the AMIDA Automatic Content Linking Device",
+        "img": "6.jpg",
+        "doi": ""
+    },
+    {
+        "ID": "7",
+        "name": "Animotus",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Haptic"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Display"
+        ],
+        "year": 2018,
+        "reference": "Testing a Shape-Changing Haptic Navigation Device with Vision Impaired and Sighted Audiences in an Immersive Theatre Setting",
+        "img": "7.jpg",
+        "doi": ""
+    },
+    {
+        "ID": "8",
+        "name": "AR Maze",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2018,
+        "reference": "AR-Maze A Tangible Programming Tool Fir Children Based On AR Technology",
+        "img": "8.jpg",
+        "doi": ""
+    },
+    {
+        "ID": "9",
+        "name": "AR-C&P",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2022,
+        "reference": "AR-C&P A Tangible Programming for Children Based Augmented Reality",
+        "img": "9.jpg",
+        "doi": "10.1145/3565698.3565778"
+    },
+    {
+        "ID": "10",
+        "name": "AR-REHAB",
+        "input": [
+            "Rotational",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2014,
+        "reference": "AR-REHAB: An Augmented Reality Framework for Poststroke-Patient Rehabilitation",
+        "img": "10.jpg",
+        "doi": ""
+    },
+    {
+        "ID": "11",
+        "name": "ARBlocks",
+        "input": [
+            "Rotational",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2012,
+        "reference": "ARBlocks: A Projective Augmented Reality Platform for Educational Activities",
+        "img": "11.jpg",
+        "doi": ""
+    },
+    {
+        "ID": "12",
+        "name": "ARCat",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2019,
+        "reference": "ARCat: A Tangible Programming Tool for DFS Algorithm Teaching",
+        "img": "12.jpg",
+        "doi": ""
+    },
+    {
+        "ID": "13",
+        "name": "ARphy",
+        "input": [
+            "Rotational",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric",
+            "Organic"
+        ],
+        "year": 2020,
+        "reference": "ARphy: Managing Photo Collections Using Physical Objects in AR",
+        "img": "13.jpg",
+        "doi": ""
+    },
+    {
+        "ID": "14",
+        "name": "ARPilot",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2018,
+        "reference": "ARPilot: Designing and Investigating AR Shooting Interfaces on Mobile Devices for Drone Videography",
+        "img": "14.jpg",
+        "doi": ""
+    },
+    {
+        "ID": "15",
+        "name": "Artalet",
+        "input": [
+            "Rotational",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2010,
+        "reference": "ARtalet: Tangible User Interface based Immersive Augmented Reality Authoring Tool for Digilog book",
+        "img": "15.jpg",
+        "doi": ""
+    },
+    {
+        "ID": "16",
+        "name": "ARToken",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2021,
+        "reference": "ARToken: A Tangible Device for Dynamically Binding Real-world Objects with Virtual Representation",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "17",
+        "name": "Audio Cubes",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Display"
+        ],
+        "year": 2008,
+        "reference": "AudioCubes: A Distributed Cube Tangible Interface Based on Interaction Range for Sound Design",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "18",
+        "name": "Audio-Paper",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2014,
+        "reference": "Audio-augmented paper for therapy and educational intervention for children with autistic spectrum disorder",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "19",
+        "name": "Augmented Reality in Physics Education",
+        "input": [
+            "Linear",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2019,
+        "reference": "Augmented Reality in Physics Education: Motion Understanding Using an Augmented Airtable",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "20",
+        "name": "Augmented Technical Drawings",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Wearables"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2015,
+        "reference": "Augmented Technical Drawings: A Novel Technique for Natural Interactive Visualization of Computer-Aided Design Models",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "21",
+        "name": "Avatar",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Projection"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2013,
+        "reference": "Physical Avatars in a Projector-Camera Tangible User Interface Enhance Quantitative Simulation Analysis and Engagement",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "22",
+        "name": "AwareKit",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators",
+            "RFID"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Display",
+            "Organic"
+        ],
+        "year": 2017,
+        "reference": "AwareKit: Exploring a Tangible Interaction Paradigm for Digital Calendars",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "23",
+        "name": "Batmen Beyond",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2017,
+        "reference": "Batmen Beyond: natural 3D Manipulation with the BatWand",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "24",
+        "name": "BeatBearing",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2021,
+        "reference": "Music Tangible User Interfaces and Vulnerable Users: State of the Art and Experimentation",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "25",
+        "name": "BeSound",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [],
+        "object": [
+            "Controller",
+            "Organic"
+        ],
+        "year": 2012,
+        "reference": "BeSound: Supporting Social Inclusion Through Body Sound Interaction.",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "26",
+        "name": "BitDrones",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Display",
+            "Organic"
+        ],
+        "year": 2016,
+        "reference": "BitDrones: Towards Using 3D Nanocopter Displays as Interactive Self-Levitating Programmable Matter",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "27",
+        "name": "BlackBlocks",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2015,
+        "reference": "BlackBlocks: Tangible interactive system for children to learn 3-letter words and basic math",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "28",
+        "name": "Block stacks",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Controller",
+            "Organic"
+        ],
+        "year": 2008,
+        "reference": "Using Developmental Theories to Inform the Design of Technology for Children",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "29",
+        "name": "Block Talks",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2018,
+        "reference": "Block Talks A Tangible andAugmented Toolkit for children to learn sentence Construction",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "30",
+        "name": "Body-Prop Interaction",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Wearables"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2018,
+        "reference": "Body-Prop Interaction: Augmented Open Discs and Egocentric Body-Based Interaction for Exploring Immersive Visualizations",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "31",
+        "name": "Bosu",
+        "input": [
+            "Non Linear",
+            "Linear",
+            "Free"
+        ],
+        "output": [
+            "Haptic"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Controller",
+            "Non shape retaining"
+        ],
+        "year": 2010,
+        "reference": "Bosu A Physical Programmable Design Tool for Transformability with Soft Mechanics",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "32",
+        "name": "BrainExplorer",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Projection"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric",
+            "Organic"
+        ],
+        "year": 2013,
+        "reference": "Preparing for future learning with a tangible user interface: The case of neuroscience",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "33",
+        "name": "BrickMusicTable",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Audio"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Display",
+            "Shape retaining"
+        ],
+        "year": 2024,
+        "reference": "BrickMusicTable: A LEGO brick-based tabletop sequencer",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "34",
+        "name": "Building Urban Narratives",
+        "input": [
+            "Rotational",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Projection",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2012,
+        "reference": "Building Urban Narratives: Collaborative Site-Seeing and Envisioning in the MR Tent",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "35",
+        "name": "C-Space",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Projection"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2020,
+        "reference": "C-Space: An Interactive Prototyping Platform for Collaborative Spatial Design Exploration",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "36",
+        "name": "CapNFC",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators",
+            "RFID"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Organic"
+        ],
+        "year": 2014,
+        "reference": "Capacitive Near-Field Communication for Ubiquitous Interaction and Perception",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "37",
+        "name": "Character Articulation",
+        "input": [
+            "Non Linear",
+            "Linear",
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2014,
+        "reference": "Tangible and Modular Input Device for Character Articulation",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "38",
+        "name": "CHERP",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2015,
+        "reference": "I want my robot to look for food: Comparing kindergartner's programming comprehension using tangible, graphic, and hybrid user interfaces",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "39",
+        "name": "Climb, Fly, Stack",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Wearables"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2018,
+        "reference": "Climb, Fly, Stack: Design of Tangible and Gesture-Based Interfaces for Natural and Efficient Interaction",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "40",
+        "name": "Clutching at Straws",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2010,
+        "reference": "Clutching at Straws: Using Tangible Interaction to Provide Non-Visual Access to Graphs",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "41",
+        "name": "Comb ",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2019,
+        "reference": "Comb: Shape as a meaningful element of interaction",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "42",
+        "name": "Composites",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Projection",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2022,
+        "reference": "Composites: A Tangible Interaction Paradigm for Visual Data Analysis in Design Practice",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "43",
+        "name": "CoVR",
+        "input": [
+            "Linear",
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Wearables"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2020,
+        "reference": "CoVR: A Large-Scale Force-Feedback Robotic Interface for Non-Deterministic Scenarios in VR",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "44",
+        "name": "CUBEMENT",
+        "input": [
+            "Rotational",
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Display"
+        ],
+        "year": 2014,
+        "reference": "CUBEMENT: democratizing mechanical movement design",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "45",
+        "name": "CubeMuseum AR",
+        "input": [
+            "Rotational",
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators",
+            "RFID"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Display"
+        ],
+        "year": 2024,
+        "reference": "CubeMuseum AR: A Tangible Augmented Reality Interface for Cultural Heritage Learning and Museum Gifting",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "46",
+        "name": "CubeQuery",
+        "input": [
+            "Linear",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Display"
+        ],
+        "year": 2014,
+        "reference": "CubeQuery: Tangible Interface for Creating and Manipulating Database Queries ",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "47",
+        "name": "Cubik",
+        "input": [
+            "Rotational",
+            "Free"
+        ],
+        "output": [
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Display"
+        ],
+        "year": 2008,
+        "reference": "CUBIK: a bi-directional tangible modeling interface",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "48",
+        "name": "CUI ",
+        "input": [
+            "Rotational",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2011,
+        "reference": "Two-handed tangible interaction techniques for composing augmented blocks",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "49",
+        "name": "D-Touch",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Audio"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": "",
+        "reference": "",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "50",
+        "name": "Deformable Musical Surface",
+        "input": [
+            "Non Linear",
+            "Linear",
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Projection",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Controller",
+            "Display",
+            "Shape retaining"
+        ],
+        "year": 2013,
+        "reference": "Designing a musical fabric-based surface to encourage children with Autism to practice motor movements",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "51",
+        "name": "Demo",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2019,
+        "reference": "Demo: Tangible Urban Models Two-way Interaction through 3D Printed Conductive Tangibles and AR for Urban Planning",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "52",
+        "name": "Digilog Book",
+        "input": [
+            "Rotational",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Controller",
+            "Organic",
+            "Shape retaining"
+        ],
+        "year": 2011,
+        "reference": "Digilog book for temple bell tolling experience based on interactive augmented reality",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "53",
+        "name": "Digital Lanterns",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Controller",
+            "Display",
+            "Organic"
+        ],
+        "year": 2021,
+        "reference": "Lanterns: Configuring a Digital Resource to Inspire Preschool Children's Free Play Outdoors",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "54",
+        "name": "DO-IT",
+        "input": [
+            "Non Linear",
+            "Linear",
+            "Rotational",
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Non shape retaining"
+        ],
+        "year": 2008,
+        "reference": "DO-IT: deformable objects as input tools",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "55",
+        "name": "Drawer",
+        "input": [
+            "Linear",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Display",
+            "Shape retaining"
+        ],
+        "year": 2022,
+        "reference": "Tangible Objects for Reminiscing in Dementia Care",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "56",
+        "name": "Dream-Experiment",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2020,
+        "reference": "Dream-Experiment: A MR User Interface with Natural Multi-channel Interaction for Virtual Experiments",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "57",
+        "name": "Duopography",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Wearables",
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2017,
+        "reference": "Duopography: Using Back-of-Device Multi-Touch Input to Manipulate Spatial Data on Mobile Tangible Interactive Topography",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "58",
+        "name": "e-Tuning ",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2019,
+        "reference": "Interactive teaching aids integrating building blocks and programming logic",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "59",
+        "name": "EarthShake ",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2013,
+        "reference": "EarthShake: Tangible collaborative learning with a mixed-reality game",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "60",
+        "name": "Embodied learning using a tangible user interface",
+        "input": [
+            "Linear",
+            "Free"
+        ],
+        "output": [
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2016,
+        "reference": "Embodied learning using a tangible user interface: The effects of haptic perception and selective pointing on a spatial learning task",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "61",
+        "name": "Embodied mixed reality with passive haptics in STEM education",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2023,
+        "reference": "Embodied mixed reality with passive haptics in STEM education: randomized control study with chemistry titration",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "62",
+        "name": "Exploring Expressive Augmented Reality",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Organic"
+        ],
+        "year": 2015,
+        "reference": "Exploring Expressive Augmented Reality: The FingAR Puppet System for Social Pretend Play",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "63",
+        "name": "Exploring Intuitive Visuo-Tactile Interaction Design for Culture Education",
+        "input": [
+            "Linear",
+            "Free"
+        ],
+        "output": [
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Projection"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2024,
+        "reference": "Exploring Intuitive Visuo-Tactile Interaction Design for Culture Education: A Chinese-Chess-Based Case Study",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "64",
+        "name": "FaceMe",
+        "input": [
+            "Linear",
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2023,
+        "reference": "FaceMe: An agent-based social game using augmented reality for the emotional development of children with autism spectrum disorder",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "65",
+        "name": "Feel the Globe",
+        "input": [
+            "Rotational",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Wearables"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2019,
+        "reference": "Feel the Globe: Enhancing the Perception of Immersive Spherical Visualizations with Tangible Proxies",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "66",
+        "name": "Feeling Virtual Worlds",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Wearables"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Controller",
+            "Organic"
+        ],
+        "year": 2018,
+        "reference": "Feeling Virtual Worlds: An Exploration into Coupling Virtual and Kinaesthetic Experiences",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "67",
+        "name": "FlexHaptics",
+        "input": [
+            "Linear",
+            "Rotational",
+            "Free"
+        ],
+        "output": [
+            "Haptic"
+        ],
+        "delivery_technology": [
+            "Wearables",
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2022,
+        "reference": "FlexHaptics: A Design Method for Passive Haptic Inputs Using Planar Compliant Structures",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "68",
+        "name": "Floatio",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Display"
+        ],
+        "year": 2016,
+        "reference": "Floatio: Design of an animacy-perceived user interface with floating // https://dl.acm.org/doi/abs/10.1145/2984751.2985699 ",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "69",
+        "name": "Flow Blocks",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2008,
+        "reference": "Extending Tangible Interfaces for Education: Digital Montessori-Inspired Manipulatives.",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "70",
+        "name": "Flystick",
+        "input": [
+            "Rotational",
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2015,
+        "reference": "Virtual Touch FlyStick and PrimBox: Two Case Studies of Mixed Reality for Teaching Geometry",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "71",
+        "name": "FocusLocus",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2018,
+        "reference": "FocusLocus: ADHD Management Gaming System for Educational Achievement and Social Inclusion",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "72",
+        "name": "Foldiverse",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Wearables"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric",
+            "Shape retaining"
+        ],
+        "year": 2024,
+        "reference": "Foldiverse: Augmenting Paper Folding Physiotherapy for Children with Autism via Family-Centered Mixed Reality Design",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "73",
+        "name": "Fun in flow",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2012,
+        "reference": "Learning and Experience: Teaching Tangible Interaction & Edutainment",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "74",
+        "name": "FuturoCube",
+        "input": [
+            "Rotational",
+            "Free"
+        ],
+        "output": [
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Display"
+        ],
+        "year": 2021,
+        "reference": "Assessing Children\u2019s Fine Motor Skills With Sensor-Augmented Toys: Machine Learning Approach",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "75",
+        "name": "G-raff",
+        "input": [
+            "Linear",
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2015,
+        "reference": "G-raff: An Elevating Tangible Block for Spatial Tabletop Interaction",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "76",
+        "name": "GeoGate",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2019,
+        "reference": "GeoGate: Correlating Geo-Temporal Datasets Using an Augmented Reality Space-Time Cube and Tangible Interactions",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "77",
+        "name": "GLATUI",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators",
+            "RFID"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2018,
+        "reference": "GLATUI: Non-intrusive Augmentation of Motion-based Interactions Using a GLDV Permission",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "78",
+        "name": "Grab the Frog",
+        "input": [
+            "Linear",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Organic"
+        ],
+        "year": 2024,
+        "reference": "Grab the Frog: Comparing Intuitive Use and User Experience of a Smartphone-only, AR-only, and Tangible AR Learning Environment",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "79",
+        "name": "Gripmarks",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Wearables",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Organic"
+        ],
+        "year": 2020,
+        "reference": "Gripmarks: Using Hand Grips to Transform In-Hand Objects into Mixed Reality Input",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "80",
+        "name": "HandiMate ",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2011,
+        "reference": "HandiMate: Exploring a modular robotics kit for animating crafted toys",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "81",
+        "name": "HoldTabSketch",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Wearables"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2025,
+        "reference": "HoldTabSketch: Enhancing Bimanual Interaction Realism in VR Sketching Using a Graphics Tablet as a Seamless Touch-Sensitive Physical Proxy",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "82",
+        "name": "HoloBots",
+        "input": [
+            "Linear",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Wearables",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2023,
+        "reference": "HoloBots: Augmenting Holographic Telepresence with Mobile Robots for Tangible Remote Collaboration in Mixed Reality",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "83",
+        "name": "Hunting Relics",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Projection"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Controller",
+            "Display"
+        ],
+        "year": 2016,
+        "reference": "Hunting Relics: A Tangible Game for Enhancing Social Engagement.",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "84",
+        "name": "I-nteract",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Wearables"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2020,
+        "reference": "I-nteract: A Cyber-Physical System for Real-Time Interaction With Physical and Virtual Objects Using Mixed Reality Technologies for Additive Manufacturing",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "85",
+        "name": "I'm in the game",
+        "input": [
+            "Linear",
+            "Free"
+        ],
+        "output": [
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Wearables",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Organic"
+        ],
+        "year": 2010,
+        "reference": "I'm in the Game: Embodied Puppet Interface Improves Avatar Control",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "86",
+        "name": "IDSense",
+        "input": [
+            "Rotational",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "RFID"
+        ],
+        "object": [
+            "Organic"
+        ],
+        "year": 2018,
+        "reference": "RFIDTags: Embedding Invisible AR Markers and Barcodes Using Low-Cost, RFID-Based 3D Printing and Imaging Tools",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "87",
+        "name": "Ilha Musical",
+        "input": [
+            "Binary"
+        ],
+        "output": [
+            "Audio",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Projection"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2019,
+        "reference": "Ilha Musical: A CAVE for Nurturing Cultural Appreciation",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "88",
+        "name": "Immersive authoring of Tangible Augmented Reality content",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2009,
+        "reference": "Immersive authoring of Tangible Augmented Reality content: A user study",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "89",
+        "name": "In the Footsteps of Henri Tudor",
+        "input": [
+            "Linear",
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Organic"
+        ],
+        "year": 2017,
+        "reference": "In the Footsteps of Henri Tudor: Creating Batteries on a Tangible Interactive Workbench",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "90",
+        "name": "Inflatable Mouse",
+        "input": [
+            "Non Linear",
+            "Linear",
+            "Free"
+        ],
+        "output": [
+            "Haptic"
+        ],
+        "delivery_technology": [],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Controller",
+            "Organic",
+            "Shape retaining"
+        ],
+        "year": 2008,
+        "reference": "Inflatable mouse: Volume-adjustable Mouse with Air-pressure-sensitive Input and Haptic Feedback",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "91",
+        "name": "InfraredTags",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric",
+            "Organic"
+        ],
+        "year": 2022,
+        "reference": "Demonstrating RFIDTags: Decoding Invisible 3D Printed Tags with Convolutional Neural Networks",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "92",
+        "name": "Intermediation Family",
+        "input": [
+            "Rotational",
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Wearables",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Display"
+        ],
+        "year": 2020,
+        "reference": "Intermediation Family: Workspace for Sharing Spatial Design among Multiple Users",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "93",
+        "name": "IoT ",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Wearables"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Controller",
+            "Non shape retaining",
+            "Shape retaining"
+        ],
+        "year": 2016,
+        "reference": "Introducing IoT and Wearable Technologies into Task-Based Language Learning for Young Children",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "94",
+        "name": "Iyagi",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Projection",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Controller",
+            "Display",
+            "Organic"
+        ],
+        "year": 2017,
+        "reference": "Iyagi: An Immersive Storytelling Tool for Healthy Bedtime Routine",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "95",
+        "name": "Jukebox ",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Display"
+        ],
+        "year": 2022,
+        "reference": "Tangible Objects for Reminiscing in Dementia Care",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "96",
+        "name": "Keycube",
+        "input": [
+            "Rotational",
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2020,
+        "reference": "Keycube: Text Entry Evaluation with a Cubic Device",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "97",
+        "name": "Kibo",
+        "input": [
+            "Rotational",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2016,
+        "reference": "Programming with the KIBO Robotics Kit in Preschool Classrooms // Coding as a playground: Promoting positive learning experiences in childhood classrooms",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "98",
+        "name": "Kiteracy",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "RFID"
+        ],
+        "object": [
+            "Geometric",
+            "Organic"
+        ],
+        "year": 2015,
+        "reference": "Kiteracy: A kit of tangible objects to strengthen literacy skills in children with Down syndrome",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "99",
+        "name": "KitVision",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Projection",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2020,
+        "reference": "KitVision toolkit: supporting the creation of cognitive activities for Overlay AR devices",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "100",
+        "name": "Learn-Pads ",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2011,
+        "reference": "Learn-Pads: A mathematical exergaming system for children's physical and mental well-being",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "101",
+        "name": "LightSpace",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Projection"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Organic"
+        ],
+        "year": 2020,
+        "reference": "LightSpace: An Interactive, Projection-Mapped (doll)House",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "102",
+        "name": "LinguaBytes",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators",
+            "RFID"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Display"
+        ],
+        "year": 2008,
+        "reference": "LinguaBytes: an interactive tangible play and learning system",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "103",
+        "name": "Loaded Dice",
+        "input": [
+            "Rotational",
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Display"
+        ],
+        "year": 2016,
+        "reference": "Loaded Dice: Exploring the Design Space of Connected Devices with Blind and Visually Impaired People",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "104",
+        "name": "Lumen",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Display",
+            "Shape retaining"
+        ],
+        "year": 2008,
+        "reference": "Lumen: Interactive Visual and Shape Display for Calm Computing",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "105",
+        "name": "Ma Exhibit",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2015,
+        "reference": "Using a Tangible Versus a Multi-touch Graphical User Interface to Support Data Exploration at a Museum Exhibit",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "106",
+        "name": "Mad Mixologist",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Wearables"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric",
+            "Organic"
+        ],
+        "year": 2021,
+        "reference": "Mad Mixologist: Exploring How Object Placement in Tangible Play Spaces Affects Collaborative Interaction Strategies",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "107",
+        "name": "MagicChem",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2022,
+        "reference": "MagicChem: a MR system based on needs theory for chemical experiments",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "108",
+        "name": "Making the Visual Tangible",
+        "input": [
+            "Rotational",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Wearables"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2019,
+        "reference": "Making the Visual Tangible: Substituting Lifting Speed Limits for Object Weight in VR",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "109",
+        "name": "Matti",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Display"
+        ],
+        "year": 2023,
+        "reference": "The use of Matti: a tangible user interface in physical rehabilitation to motivate children and older adults",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "110",
+        "name": "Media Cubes",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2008,
+        "reference": "AutoHAN: An Architecture for Programming the Home  // A Framework for End User Programming in the Home// Device for Specifying a Sequence of Outputs",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "111",
+        "name": "MediaBlocks",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2008,
+        "reference": "mediaBlocks: Physical Containers Transports, and Controls for Online Media",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "112",
+        "name": "MEinVR",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Wearables"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2021,
+        "reference": "MEinVR: Multimodal interaction techniques in immersive exploration",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "113",
+        "name": "MICOO",
+        "input": [
+            "Non Linear",
+            "Linear",
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2011,
+        "reference": "MICOO: A multimodal tangible interface for visually impaired children",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "114",
+        "name": "MiusicBot",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Audio"
+        ],
+        "delivery_technology": [],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Display"
+        ],
+        "year": 2016,
+        "reference": "Musicbot: Edutainment with A Reconfigurable Robotic System",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "115",
+        "name": "Mobeybou ",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "RFID"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2019,
+        "reference": "Designing narrative learning in the digital era",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "116",
+        "name": "Mobile robot",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators",
+            "RFID"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2015,
+        "reference": "Augmented Tangible Surfaces to Support Cognitive Games for Ageing People",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "117",
+        "name": "MR.Brick",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2023,
+        "reference": "MR.Brick: Designing A Remote Mixed-reality Educational Game System for Promoting Children's Social & Collaborative Skills",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "118",
+        "name": "MudPad",
+        "input": [
+            "Non Linear",
+            "Linear",
+            "Free"
+        ],
+        "output": [
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2010,
+        "reference": "Mudpad: Fluid Haptics for Multitouch Surfaces",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "119",
+        "name": "Multisensory Box",
+        "input": [
+            "Linear",
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Haptic"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Display",
+            "Organic"
+        ],
+        "year": 2019,
+        "reference": "Co-designing inclusive multisensory story mapping",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "120",
+        "name": "Musa ",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Controller",
+            "Organic"
+        ],
+        "year": 2019,
+        "reference": "Playing to Play: A piano-based user interface for music education video-games",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "121",
+        "name": "muSurface",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Projection",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Display",
+            "Shape retaining"
+        ],
+        "year": 2013,
+        "reference": "muSurface: Tangible user interface for music learning based on ReacTable and computer vision",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "122",
+        "name": "Nectar",
+        "input": [
+            "Linear",
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Projection",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2018,
+        "reference": "Nectar: Multi-user Spatial Augmented Reality for everyone. Three live demonstrations of educative applications.",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "123",
+        "name": "NEXUS",
+        "input": [
+            "Non Linear",
+            "Linear",
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2024,
+        "reference": "NEXUS: A Tangible Multi-User Sensor-Based Telematic Novel Mixing-Interface for Multimedial Exploration",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "124",
+        "name": "NIKVision",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Projection",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2013,
+        "reference": "Therapeutic Activities for Elderly People based on Tangible Interaction // NIKVision: Developing a Tangible Application for and with Children ",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "125",
+        "name": "Object pop-up",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric",
+            "Organic"
+        ],
+        "year": 2023,
+        "reference": "Object pop-up: Can we infer 3D objects and their poses from human interactions alone?",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "126",
+        "name": "Of pages and bubbles",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2018,
+        "reference": "Of pages and paddles: Children's expectations and mistaken interactions with physical-digital tools",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "127",
+        "name": "On the Shoulder of the Giant",
+        "input": [
+            "Rotational",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2017,
+        "reference": "On the Shoulder of the Giant: A Multi-Scale Mixed Reality Collaboration with 360 Video Sharing and Tangible Interaction",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "128",
+        "name": "Onomatangiplay",
+        "input": [
+            "Linear",
+            "Binary"
+        ],
+        "output": [
+            "Audio",
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2021,
+        "reference": "Onomatangiplay : A Game Experience with a Tangible Auditory User Interface Created by Representing Game Effects with a Real-world Sound Source",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "129",
+        "name": "Opportunistic Interfaces for Augmented Reality",
+        "input": [
+            "Linear",
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Wearables"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2022,
+        "reference": "Opportunistic Interfaces for Augmented Reality: Transforming Everyday Objects into Tangible 6DoF Interfaces Using Ad hoc UI",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "130",
+        "name": "PhonoBlocks ",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2018,
+        "reference": "A design case study of a tangible system supporting young English language learners",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "131",
+        "name": "Physics on Display",
+        "input": [
+            "Linear",
+            "Rotational",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Wearables"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2010,
+        "reference": "Physics on Display: Tangible Graphics on Hexagonal Bezel-less Screens",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "132",
+        "name": "Physikit",
+        "input": [
+            "Rotational",
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Display"
+        ],
+        "year": 2016,
+        "reference": "Physikit: Data Engagement Through Physical Ambient Visualizations in the Home",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "133",
+        "name": "PneuMod",
+        "input": [
+            "Non Linear",
+            "Linear",
+            "Free"
+        ],
+        "output": [
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Wearables"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2021,
+        "reference": "PneuMod: A Modular Haptic Device with Localized Pressure and Thermal Feedback",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "134",
+        "name": "POMA",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Controller",
+            "Organic"
+        ],
+        "year": 2020,
+        "reference": "POMA: A tangible user interface to improve social and cognitive skills of Sri Lankan children with ASD",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "135",
+        "name": "Postcard AR ",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2024,
+        "reference": "CubeMuseum AR: A Tangible Augmented Reality Interface for Cultural Heritage Learning and Museum Gifting",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "136",
+        "name": "Poster",
+        "input": [
+            "Linear"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Projection",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Display",
+            "Shape retaining"
+        ],
+        "year": 2009,
+        "reference": "Poster: Interscopic Multi-Touch Surfaces: Using bimanual Interaction for intuitive Manipulation of Spatial Data",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "137",
+        "name": "PPCards",
+        "input": [
+            "Linear",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Projection",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2021,
+        "reference": "PPCards: Toward Enhancing Electronic Prototyping with Editions of a Card-based Platform",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "138",
+        "name": "PrimBox",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2015,
+        "reference": "Virtual Touch FlyStick and PrimBox: Two Case Studies of Mixed Reality for Teaching Geometry",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "139",
+        "name": "Projected interfaces",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2009,
+        "reference": "Projected Interfaces: Enabling Serendipitous Interaction with Smart Tangible Objects",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "140",
+        "name": "Pyramid Display",
+        "input": [
+            "Rotational",
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Display",
+            "Shape retaining"
+        ],
+        "year": 2022,
+        "reference": "Tangible Objects for Reminiscing in Dementia Care",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "141",
+        "name": "Reactable",
+        "input": [
+            "Linear",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Projection"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "RFID"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Display"
+        ],
+        "year": 2012,
+        "reference": "Reactable: A tangible musical interface promoting social interaction in autism therapy",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "142",
+        "name": "Real-Virtual Objects",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Wearables"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2024,
+        "reference": "Real-Virtual Objects: Exploring Bidirectional Embodied Tangible Interaction with a Virtual Human in World-Fixed Virtual Reality",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "143",
+        "name": "RealitySketch",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2020,
+        "reference": "RealitySketch: Embedding Responsive Graphics and Visualizations in AR through Dynamic Sketching",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "144",
+        "name": "Reducat",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Controller",
+            "Display",
+            "Organic"
+        ],
+        "year": 2016,
+        "reference": "Designing ReduCat: audio-augmented paper drawings tangible interface",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "145",
+        "name": "RelicCARD",
+        "input": [
+            "Linear",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2024,
+        "reference": "RelicCARD: Enhancing cultural relics exploration through semantics-based augmented reality tangible interaction design",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "146",
+        "name": "Relief",
+        "input": [
+            "Non Linear",
+            "Linear",
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Controller",
+            "Display",
+            "Shape retaining"
+        ],
+        "year": 2010,
+        "reference": "Relief: A Scalable Actuated Shape Display",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "147",
+        "name": "Replicate and Reuse",
+        "input": [
+            "Linear",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Wearables"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Controller",
+            "Display",
+            "Organic",
+            "Shape retaining"
+        ],
+        "year": 2020,
+        "reference": "Replicate and Reuse: Tangible Interaction Design for Digitally-Augmented Physical Media Objects",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "148",
+        "name": "REVEL",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Wearables",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2012,
+        "reference": "REVEL: Tactile Feedback Technology for Augmented Reality",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "149",
+        "name": "RFIDTags Demo",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators",
+            "RFID"
+        ],
+        "object": [
+            "Geometric",
+            "Organic"
+        ],
+        "year": 2015,
+        "reference": "RFIDTags Demo: Invisible AR Markers and Barcodes Using RFID Imaging and 3D Printing",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "150",
+        "name": "Rope Revolution",
+        "input": [
+            "Non Linear",
+            "Linear",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Controller",
+            "Organic",
+            "Shape retaining"
+        ],
+        "year": 2011,
+        "reference": "Rope Revolution: Tangible and Gestural Rope Interface for Collaborative Play",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "151",
+        "name": "RTD-3 RTD-4",
+        "input": [
+            "Rotational",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Projection",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2010,
+        "reference": "Reconfigurable Tangible Devices for 3D Virtual Object Manipulation by Single or Multiple Users",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "152",
+        "name": "Rubikon",
+        "input": [
+            "Rotational",
+            "Free"
+        ],
+        "output": [
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Display"
+        ],
+        "year": 2014,
+        "reference": "Rubikon: a highly reconfigurable device for advanced interaction",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "153",
+        "name": "Rubix",
+        "input": [
+            "Rotational",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Projection"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2015,
+        "reference": "Rubix: Dynamic Spatial Augmented Reality by Extraction of Plane Regions with a RGB-D Camera",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "154",
+        "name": "SABLIER",
+        "input": [
+            "Rotational",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Projection",
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Organic"
+        ],
+        "year": 2022,
+        "reference": "SABLIER : a Tangible Interactor to Navigate through Space and Time",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "155",
+        "name": "Salt Analysis",
+        "input": [
+            "Linear",
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Controller",
+            "Display"
+        ],
+        "year": 2012,
+        "reference": "Learning and Experience: Teaching Tangible Interaction & Edutainment",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "156",
+        "name": "Sandscape",
+        "input": [
+            "Non Linear",
+            "Linear",
+            "Free"
+        ],
+        "output": [
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Projection",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Controller",
+            "Shape retaining"
+        ],
+        "year": 2020,
+        "reference": "VR SandScape Working with Multiple Perspectives in a Hybrid VR/SAR Collaborative Play Space",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "157",
+        "name": "Sensor-Augmented Virtual Labs",
+        "input": [
+            "Linear",
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Display"
+        ],
+        "year": 2016,
+        "reference": "Sensor-Augmented Virtual Labs: Using Physical Interactions with Science Simulations to Promote Understanding of Gas Behavior",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "158",
+        "name": "Shutters",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Haptic"
+        ],
+        "delivery_technology": [],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Controller",
+            "Display",
+            "Organic",
+            "Shape retaining"
+        ],
+        "year": 2009,
+        "reference": "Shutters: A Permeable Surface for Environmental Control and Communication",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "159",
+        "name": "Siftables",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Display"
+        ],
+        "year": 2008,
+        "reference": "Siftables: Towards Sensor Network User Interfaces",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "160",
+        "name": "Sifteo",
+        "input": [
+            "Linear",
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2021,
+        "reference": "Designing Tangible Video Games: Lessons Learned from the Sifteo Cubes",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "161",
+        "name": "SIG-Blocks",
+        "input": [
+            "Rotational",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2016,
+        "reference": "SIG-Blocks: Tangible Game Technology for Automated Cognitive Assessment",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "162",
+        "name": "Sketched reality ",
+        "input": [
+            "Linear",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Projection",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2022,
+        "reference": "Sketched Reality Sketching Bi-Directional Interactions Between Virtual and physical worlds with AR and Actuated Tangible UI",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "163",
+        "name": "Smart Cubes",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Display"
+        ],
+        "year": 2025,
+        "reference": "Enhancing neurocognitive rehabilitation with smart cubes: Design, technology, and programmable games",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "164",
+        "name": "SmartBlocks",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "RFID"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2008,
+        "reference": "SmartBlocks: A tangible mathematical manipulative",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "165",
+        "name": "Sound Maker",
+        "input": [
+            "Non Linear",
+            "Linear",
+            "Free"
+        ],
+        "output": [
+            "Audio"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Display",
+            "Organic",
+            "Shape retaining"
+        ],
+        "year": 2012,
+        "reference": "Embodied metaphors in tangible interaction design",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "166",
+        "name": "Specimen box",
+        "input": [
+            "Rotational",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Wearables"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2017,
+        "reference": "Specimen Box: A Tangible Interaction Technique for World-Fixed Virtual Reality Displays",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "167",
+        "name": "Sphere in Hand",
+        "input": [
+            "Rotational",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2012,
+        "reference": "Sphere in Hand: Exploring Tangible Interaction with Immersive Spherical Visualizations",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "168",
+        "name": "SPR1NG Controller",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2019,
+        "reference": "SPR1NG Controller: An Interface for Kinesthetic Spatial Manipulation",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "169",
+        "name": "Sprout I/O",
+        "input": [
+            "Non Linear",
+            "Linear",
+            "Free"
+        ],
+        "output": [
+            "Haptic"
+        ],
+        "delivery_technology": [],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Display",
+            "Shape retaining"
+        ],
+        "year": 2008,
+        "reference": "Sprout I/O: A Texturally Rich Interface",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "170",
+        "name": "Spyractable",
+        "input": [
+            "Linear",
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Projection"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Organic"
+        ],
+        "year": 2014,
+        "reference": "Spyractable: a tangible user interface modular synthesizer",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "171",
+        "name": "StARboard & TrACTOr",
+        "input": [
+            "Linear",
+            "Free"
+        ],
+        "output": [
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Wearables"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2019,
+        "reference": "StARboard & TrACTOr: Actuated Tangibles in an Educational TAR Application",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "172",
+        "name": "STOMP",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Display"
+        ],
+        "year": 2013,
+        "reference": "Activity, motivation and games for young children. ",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "173",
+        "name": "StoryBeads",
+        "input": [
+            "Linear",
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Audio"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators",
+            "RFID"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Display"
+        ],
+        "year": 2013,
+        "reference": "StoryBeads: Preserving Indigenous Knowledge through Tangible Interaction Design",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "174",
+        "name": "StoryCube ",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "RFID"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Display"
+        ],
+        "year": 2014,
+        "reference": "StoryCube: Supporting children's storytelling with a tangible tool",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "175",
+        "name": "Storytelling",
+        "input": [
+            "Linear",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Shape retaining"
+        ],
+        "year": 2020,
+        "reference": "A new storytelling genre: combining handicraft elements and storytelling via mixed reality technology",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "176",
+        "name": "Systems Block",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2008,
+        "reference": "Extending Tangible Interfaces for Education: Digital Montessori-Inspired Manipulatives.",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "177",
+        "name": "T-Maze",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2011,
+        "reference": "T-Maze: A tangible programming tool for children",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "178",
+        "name": "T4Tags",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators",
+            "RFID"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Organic"
+        ],
+        "year": 2016,
+        "reference": "T4Tags 2.0: A Tangible System for Supporting Users' Needs in the Domestic Environment",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "179",
+        "name": "TagTiles ",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Visual"
+        ],
+        "delivery_technology": [],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Organic"
+        ],
+        "year": 2013,
+        "reference": "In-game assessment and training of nonverbal cognitive skills using TagTiles",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "180",
+        "name": "TanCreator",
+        "input": [
+            "Linear",
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Display"
+        ],
+        "year": 2018,
+        "reference": "TanCreator: A Tangible Tool for Children to Create Augmented Reality Games",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "181",
+        "name": "TANGerINE",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Projection"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2007,
+        "reference": "Introducing TANGerINE: A Tangible Interactive Natural Environment",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "182",
+        "name": "Tangi ",
+        "input": [
+            "Non Linear",
+            "Linear",
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Display",
+            "Shape retaining"
+        ],
+        "year": 2020,
+        "reference": "Tangi: Tangible Proxies For Embodied Object Exploration And Manipulation In Virtual Reality",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "183",
+        "name": "Tangible Box",
+        "input": [
+            "Rotational",
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2019,
+        "reference": "Tangible User Interface for Homework for Children with Communication Disorders",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "184",
+        "name": "Tangible Construction Blocks",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2008,
+        "reference": "Novel tangible interfaces for physical manipulation",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "185",
+        "name": "Tangible Grid",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Projection",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Shape retaining"
+        ],
+        "year": 2022,
+        "reference": "TangibleGrid: Tangible Web Layout Design for Blind Users",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "186",
+        "name": "Tangible Projection Mapping",
+        "input": [
+            "Rotational",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Projection"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric",
+            "Organic"
+        ],
+        "year": 2018,
+        "reference": "Tangible Projection Mapping: Dynamic Appearance Augmenting of Objects in Hands",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "187",
+        "name": "Tangible props for scientific visualization",
+        "input": [
+            "Rotational",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Organic"
+        ],
+        "year": 2009,
+        "reference": "Tangible props for scientific visualization: concept, requirements, application",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "188",
+        "name": "Tangible Stickers",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Organic"
+        ],
+        "year": 2019,
+        "reference": "Tangible Stickers: A Sensor Based Tangible User Interface",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "189",
+        "name": "Tangible Version Control",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2015,
+        "reference": "Tangible Version Control: Exploring a Physical Object's Alternative Versions",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "190",
+        "name": "Tangible Viewports",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2016,
+        "reference": "Tangible Viewports: Getting Out of Flatland in Desktop Environments",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "191",
+        "name": "Tangible VR",
+        "input": [
+            "Rotational",
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Wearables",
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators",
+            "RFID"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2017,
+        "reference": "Tangible VR: Diegetic Tangible Objects for Virtual Reality Narratives",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "192",
+        "name": "Tangible VR Book",
+        "input": [
+            "Linear",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Wearables"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2021,
+        "reference": "Tangible VR Book: Exploring the Design Space of Marker-Based Tangible Interfaces for Virtual Reality",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "193",
+        "name": "Tangible VR Lab",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Wearables"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2022,
+        "reference": "Tangible VR Lab: Studying User Interaction in Space and Time Morphing Scenarios",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "194",
+        "name": "TangibleCircuits",
+        "input": [
+            "Linear",
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2020,
+        "reference": "TangibleCircuits: Interactive 3D printed circuits for students with visual impairments",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "195",
+        "name": "TangibleTouch",
+        "input": [
+            "Rotational",
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2022,
+        "reference": "TangibleTouch: A Toolkit for Designing Surface-based Gestures for Tangible Interfaces",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "196",
+        "name": "Tangilearn ",
+        "input": [
+            "Non Linear",
+            "Linear",
+            "Rotational",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators",
+            "RFID"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Organic"
+        ],
+        "year": 2013,
+        "reference": "Making digital objects tangible: A case study for tangibility in preschoolers multimedia learning",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "197",
+        "name": "TangiNet",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Projection"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Organic"
+        ],
+        "year": 2019,
+        "reference": "TangiNet: A tangible user interface system for teaching the properties of network cables",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "198",
+        "name": "TangiSense",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Projection",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators",
+            "RFID"
+        ],
+        "object": [
+            "Controller",
+            "Display",
+            "Shape retaining"
+        ],
+        "year": 2012,
+        "reference": "RFID-driven situation awareness on TangiSense, a table interacting with tangible objects",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "199",
+        "name": "TangToys",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Organic"
+        ],
+        "year": 2020,
+        "reference": "TangToys: Connected emotional objects for child well-being ",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "200",
+        "name": "TAPE",
+        "input": [
+            "Linear",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Wearables"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2023,
+        "reference": "TAPE: Tangible Augmented Previsualization Environment for Filmmaking",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "201",
+        "name": "TARBoard",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2024,
+        "reference": "TARBoard: Tangible Augmented Reality System for Table-top Game Environment",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "202",
+        "name": "TARES",
+        "input": [
+            "Linear",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2024,
+        "reference": "TARES: A Game-Based Tangible Augmented Reality English Spelling Mastery System With Minimal Cognitive Load",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "203",
+        "name": "Teachable Reality",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2023,
+        "reference": "Teachable Reality: Prototyping Tangible Augmented Reality with Everyday Objects by Leveraging Interactive Machine Teaching",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "204",
+        "name": "Teegi ",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Controller",
+            "Display",
+            "Organic"
+        ],
+        "year": 2009,
+        "reference": "Teegi's so cute Assessing the pedagogical potential of an interactive tangible interface for schoolchildren",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "205",
+        "name": "Telestory",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators",
+            "RFID"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2021,
+        "reference": "Make a Riddle and TeleStory: Designing Children's Applications for the Siftables Platform",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "206",
+        "name": "Tern ",
+        "input": [
+            "Linear",
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2012,
+        "reference": "Tangible Interaction and Learning: The Case for a Hybrid Approach",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "207",
+        "name": "The Book as Interface",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Audio"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "RFID"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Organic"
+        ],
+        "year": 2008,
+        "reference": "The Book as Interface: A tangible e-mail system",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "208",
+        "name": "The Book of Elli ",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2013,
+        "reference": "The Book of Elli: An interactive book for teaching the alphabet to children",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "209",
+        "name": "The i-Cube",
+        "input": [
+            "Rotational",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Display"
+        ],
+        "year": 2012,
+        "reference": "The i-Cube: design considerations for block-based digital manipulatives and their applications",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "210",
+        "name": "The Revealing Flashlight",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2015,
+        "reference": "The Revealing Flashlight: Interactive Spatial Augmented Reality for Detail Exploration of Cultural Heritage Artifacts",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "211",
+        "name": "The Virtual Mirror",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2009,
+        "reference": "The Virtual Mirror: A New Interaction Paradigm for Augmented Reality Environments",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "212",
+        "name": "Through the Box",
+        "input": [
+            "Linear",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Wearables"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2020,
+        "reference": "Thinking Through the Box: Evaluating a 3D Game to Engage Penetrative Thinking",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "213",
+        "name": "Tie Memories to E-souvenirs",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric",
+            "Organic"
+        ],
+        "year": 2022,
+        "reference": "Tie Memories to E-souvenirs: Hybrid Tangible AR Souvenirs in the Museum",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "214",
+        "name": "TinkerLamp",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Projection"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Organic"
+        ],
+        "year": 2010,
+        "reference": "Benefits of a tangible interface for collaborative learning and interaction",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "215",
+        "name": "TIPTAB",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Projection"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2022,
+        "reference": "TIPTAB: A tangible interactive projection tabletop for virtual experiments",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "216",
+        "name": "TMAR",
+        "input": [
+            "Linear"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Controller",
+            "Display"
+        ],
+        "year": 2008,
+        "reference": "TMAR: Extension of a tabletop interface using mobile augmented reality",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "217",
+        "name": "TOK ",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "RFID"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2015,
+        "reference": "Digital Manipulatives as Scaffolds for Preschoolers Language Development",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "218",
+        "name": "Topobo",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Display",
+            "Organic"
+        ],
+        "year": 2008,
+        "reference": "Topobo in the Wild Longitudinal Evaluations of Educators Appropriating a Tangible Interface // Topobo: A Constructive Assembly System with Kinetic Memory",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "219",
+        "name": "Touching the future of training",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Wearables"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Organic"
+        ],
+        "year": 2023,
+        "reference": "Touching the future of training: investigating tangible interaction in virtual reality",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "220",
+        "name": "TouchVR",
+        "input": [
+            "Non Linear",
+            "Linear",
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Haptic"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2019,
+        "reference": "TouchVR: a Wearable Haptic Interface for VR Aimed at Delivering Multi-modal Stimuli at the User's Palm",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "221",
+        "name": "ToyVision",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric",
+            "Organic"
+        ],
+        "year": 2012,
+        "reference": "ToyVision: A Toolkit for Prototyping Tabletop Tangible games",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "222",
+        "name": "TUI origami",
+        "input": [
+            "Linear",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric",
+            "Shape retaining"
+        ],
+        "year": 2018,
+        "reference": "Mixed Reality Storytelling Environments Based on Tangible User Interface: Take Origami as an Example",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "223",
+        "name": "TuneTable",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": "",
+        "reference": "",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "224",
+        "name": "Ubi Edge",
+        "input": [
+            "Linear",
+            "Binary"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Wearables"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric",
+            "Organic"
+        ],
+        "year": 2023,
+        "reference": "Ubi Edge: Authoring Edge-Based Opportunistic Tangible User Interfaces in Augmented Reality",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "225",
+        "name": "Ubi-TOUCH",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2023,
+        "reference": "Ubi-TOUCH: Ubiquitous Tangible Object Utilization through Consistent Hand-object interaction in Augmented Reality",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "226",
+        "name": "VibEye",
+        "input": [
+            "Linear",
+            "Free"
+        ],
+        "output": [
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Wearables"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2019,
+        "reference": "VibEye: Vibration-Mediated Object Recognition for Tangible Interactive Applications",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "227",
+        "name": "Virtual Guia Fortress",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric",
+            "Organic"
+        ],
+        "year": 2021,
+        "reference": "Virtual Guia Fortress: A 3D-printed eXtended Reality Playset",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "228",
+        "name": "VoxBox",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Display",
+            "Organic"
+        ],
+        "year": 2015,
+        "reference": "Getting Quizzical about Physical: Observing Experiences with a Tangible Questionnaire + https://2012.cities.io/project/vox-box/ ",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "229",
+        "name": "VPModel",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Wearables"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2019,
+        "reference": "VPModel: High-Fidelity Product Simulation in a Virtual-Physical Environment",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "230",
+        "name": "VR Book",
+        "input": [
+            "Linear",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Wearables"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Organic"
+        ],
+        "year": 2020,
+        "reference": "VR Book: A Tangible Interface for Smartphone-based Virtual Reality",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "231",
+        "name": "VR/Urban",
+        "input": [
+            "Non Linear",
+            "Linear",
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Projection"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Organic"
+        ],
+        "year": 2010,
+        "reference": "VR/Urban: SMSlingshot",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "232",
+        "name": "VR4VR",
+        "input": [
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Wearables"
+        ],
+        "reception_technology": [
+            "RFID"
+        ],
+        "object": [
+            "Geometric"
+        ],
+        "year": 2014,
+        "reference": "VR4VR: Vocational Rehabilitation of Individuals with Disabilities in Immersive Virtual Reality Environments",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "233",
+        "name": "Wawcube ",
+        "input": [
+            "Rotational",
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Display"
+        ],
+        "year": 2018,
+        "reference": "Review puzzles and construction sets falling under the category of augmented reality games",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "234",
+        "name": "When Tangibles Become Deformable",
+        "input": [
+            "Non Linear",
+            "Linear",
+            "Free"
+        ],
+        "output": [
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Wearables"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Shape retaining"
+        ],
+        "year": 2023,
+        "reference": "When Tangibles Become Deformable: Studying Pseudo-Stiffness Perceptual Thresholds in a VR Grasping Task",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "235",
+        "name": "WIKA",
+        "input": [
+            "Linear",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Projection",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision",
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2020,
+        "reference": "WIKA: A Projected Augmented Reality Workbench for Interactive Kinetic Art",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "236",
+        "name": "WOWcube Puzzle",
+        "input": [
+            "Rotational",
+            "Free"
+        ],
+        "output": [
+            "Audio",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2018,
+        "reference": "WOWcube Puzzle: A Transreality Object of Mixed Reality",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "237",
+        "name": "Z-agon",
+        "input": [
+            "Rotational",
+            "Free"
+        ],
+        "output": [
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Microcontrollers, Sensors, and Actuators"
+        ],
+        "object": [
+            "Geometric",
+            "Controller",
+            "Display"
+        ],
+        "year": 2008,
+        "reference": "Z-agon: mobile multi-display browser cube",
+        "img": "",
+        "doi": ""
+    },
+    {
+        "ID": "238",
+        "name": "ZECA Robot + OPT PlayBrick",
+        "input": [
+            "Binary",
+            "Free"
+        ],
+        "output": [
+            "Haptic",
+            "Visual"
+        ],
+        "delivery_technology": [
+            "Handheld object",
+            "Overlay AR"
+        ],
+        "reception_technology": [
+            "Computer Vision"
+        ],
+        "object": [
+            "Geometric",
+            "Controller"
+        ],
+        "year": 2019,
+        "reference": "A Supervised Autonomous Approach for Robot Intervention with Children with Autism Spectrum Disorder",
+        "img": "",
+        "doi": ""
+    }
+]
